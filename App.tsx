@@ -1,4 +1,6 @@
 // In App.js in a new project
+// App. virou o hub para as outras telas
+
 
 import * as React from 'react';
 import { createStaticNavigation } from '@react-navigation/native';
